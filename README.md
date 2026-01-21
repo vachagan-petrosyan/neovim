@@ -1,7 +1,7 @@
 # neovim
 Here you can find cool configuration for NVIM
 
-## 1. Prerequisits
+## 1. Prerequisites
 
 ## 2. Install
 
