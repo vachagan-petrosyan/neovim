@@ -1,7 +1,7 @@
 # NeoVim configuration by Vach
 
 Here you can find cool configuration for NVIM
-### List of plugins
+### List of installed plugins
 1. neo-tree
 2. telescope
 3. git
